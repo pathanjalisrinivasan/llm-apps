@@ -11,13 +11,6 @@
 
 A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
 
-
-## 🤔 Why Awesome LLM Apps?
-
-- 💡 Discover practical and creative ways LLMs can be applied across different domains, from code repositories to email inboxes and more.
-- 🔥 Explore apps that combine LLMs from OpenAI, Anthropic, Gemini, and open-source alternatives with RAG and AI Agents.
-- 🎓 Learn from well-documented projects and contribute to the growing open-source ecosystem of LLM-powered applications.
-
 ## 🚀 Getting Started
 
 1. **Clone the repository** 
